@@ -1,1 +1,3 @@
-# ios-InputMask
+# InputMask
+
+A description of this package.
